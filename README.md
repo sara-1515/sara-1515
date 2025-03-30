@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### Hi there, I'm [Your Name] 👋  
+### Hi there, I'm Sara 👋  
 
-🚀 **Aspiring Full-Stack Developer | Future IFS Officer | Tech & Education Enthusiast**
+🚀 **Aspiring Full-Stack Developer | Tech & Education Enthusiast**
 
 I am currently in my final year of engineering Uaha Mittal Institute of Technology, actively developing **full-stack applications**. My passion lies in leveraging **technology for education**, and I'm working on a **Personalized Learning Management System (LMS)** aimed at improving student learning experiences.
 
@@ -12,7 +12,6 @@ I am currently in my final year of engineering Uaha Mittal Institute of Technolo
 - 💡 **Currently Learning**: JavaScript, React.js, Node.js & Full-Stack Web Development
 - 🎯 **Current Focus**: Building an AI-powered **Personalized LMS** & solving **LeetCode** problems
 - 🏆 **Goal for 2025**: Secure an engineering job, strengthen my projects, and prepare for UPSC
-- 🌍 **Future Vision**: Becoming an **exceptional IFS officer** while being a highly skilled tech professional
 - 📚 **Exploring**: Open Source Contributions, DevOps, and AI-based solutions
 
 ---
