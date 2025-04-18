@@ -43,7 +43,6 @@ I am currently in my final year of engineering Uaha Mittal Institute of Technolo
 
 ## 🤝 Let's Connect!
 📩 **Email**: [sararpise@gmail.com](mailto:your-email@example.com)  
-🔗 **LinkedIn**: [linkedin.com/in/sara-p-88a276256/](https://linkedin.com/in/YOURUSERNAME)  
 
 
 **⭐️ Feel free to explore my repos, fork, and collaborate!** 🚀
